@@ -1,0 +1,2 @@
+rootProject.name='Android layout Tutorial'
+include ':app'
