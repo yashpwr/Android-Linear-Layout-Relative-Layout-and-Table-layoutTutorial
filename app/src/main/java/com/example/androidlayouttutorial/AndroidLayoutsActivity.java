@@ -1,9 +1,9 @@
 package com.example.androidlayouttutorial;
 
-        import android.app.Activity;
-        import android.os.Bundle;
+import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
 
-public class AndroidLayoutsActivity extends Activity {
+public class AndroidLayoutsActivity extends AppCompatActivity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
